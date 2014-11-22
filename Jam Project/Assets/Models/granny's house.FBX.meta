@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 5faaf13ec5c03514ea5c5a3626d01f20
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: blades
+    100002: Box002
+    100004: Box004
+    100006: Box005
+    100008: Box006
+    100010: Cylinder001
+    100012: //RootNode
+    100014: Line001
+    100016: OilTank001
+    100018: PivotDoor001
+    100020: Plane001
+    100022: Railing006
+    100024: Railing015
+    100026: Railing017
+    100028: Railing018
+    100030: Railing019
+    100032: Railing020
+    100034: Railing021
+    100036: Railing022
+    100038: Railing023
+    100040: Sphere001
+    400000: blades
+    400002: Box002
+    400004: Box004
+    400006: Box005
+    400008: Box006
+    400010: Cylinder001
+    400012: //RootNode
+    400014: Line001
+    400016: OilTank001
+    400018: PivotDoor001
+    400020: Plane001
+    400022: Railing006
+    400024: Railing015
+    400026: Railing017
+    400028: Railing018
+    400030: Railing019
+    400032: Railing020
+    400034: Railing021
+    400036: Railing022
+    400038: Railing023
+    400040: Sphere001
+    2300000: blades
+    2300002: Box002
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: OilTank001
+    2300012: PivotDoor001
+    2300014: Plane001
+    2300016: Railing006
+    2300018: Railing015
+    2300020: Railing017
+    2300022: Railing018
+    2300024: Railing019
+    2300026: Railing020
+    2300028: Railing021
+    2300030: Railing022
+    2300032: Railing023
+    2300034: Sphere001
+    3300000: blades
+    3300002: Box002
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: OilTank001
+    3300012: PivotDoor001
+    3300014: Plane001
+    3300016: Railing006
+    3300018: Railing015
+    3300020: Railing017
+    3300022: Railing018
+    3300024: Railing019
+    3300026: Railing020
+    3300028: Railing021
+    3300030: Railing022
+    3300032: Railing023
+    3300034: Sphere001
+    4300000: Railing006
+    4300002: Box002
+    4300004: Railing015
+    4300006: Railing017
+    4300008: Railing018
+    4300010: Railing019
+    4300012: Railing020
+    4300014: Railing021
+    4300016: Railing022
+    4300018: Box004
+    4300020: PivotDoor001
+    4300022: Railing023
+    4300024: Plane001
+    4300026: Sphere001
+    4300028: Box005
+    4300030: OilTank001
+    4300032: Box006
+    4300034: blades
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

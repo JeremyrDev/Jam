@@ -46,8 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SceneController.cs" />
-     <Compile Include="Assets\SheepScript.cs" />
+     <Compile Include="Assets\Scripts\Level\SceneController.cs" />
+     <Compile Include="Assets\Scripts\Level\SheepScript.cs" />
+     <Compile Include="Assets\Scripts\Menu\HighscoreScript.cs" />
+     <Compile Include="Assets\Scripts\Menu\StartScript.cs" />
+     <Compile Include="Assets\Scripts\Menu\backScript.cs" />
+     <Compile Include="Assets\Scripts\Menu\infoTextScript.cs" />
+     <Compile Include="Assets\Scripts\beltMovement.cs" />
      <None Include="Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
